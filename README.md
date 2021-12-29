@@ -1,5 +1,5 @@
 # bbr2alpha
-TCP BBR2 / bbr v2alpha  
+TCP BBR2 / bbr v2alpha for Ubuntu/Debian
 
 
 https://github.com/google/bbr/tree/v2alpha  
